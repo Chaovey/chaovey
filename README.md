@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaovey Visal</h1>
 <h3 align="center">A passionate Software developer from Cambodian</h3>
-
+<img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  alt="chaovey"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaovey&label=Profile%20views&color=0e75b6&style=flat" alt="chaovey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaovey" alt="chaovey" /></a> </p>
@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaovey&show_icons=true&locale=en" alt="chaovey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaovey&" alt="chaovey" /></p>
