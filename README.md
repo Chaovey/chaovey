@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Software developer from Cambodian</h3>
 <img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  alt="chaovey"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaovey&label=Profile%20views&color=0e75b6&style=flat" alt="chaovey" /> </p>
-
-<p align="left"> <a href="https://chaovey.github.io/" alt="chaovey" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://chaovey.github.io/" alt="chaovey" /></a> Chaovey Visal</p>
 <p align="left">
 </p>
 
